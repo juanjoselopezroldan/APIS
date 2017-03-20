@@ -1,2 +1,2 @@
 # APIS
-Ejercicio con la utilizacion de las apis
+Ejercicios con la utilizacion de las apis
